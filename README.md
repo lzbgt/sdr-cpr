@@ -1,5 +1,8 @@
 # SDR-Zynq Integration Review
 
+
+[![Paid_SDR_Review](https://img.shields.io/badge/Paid_SDR_Review-brightgreen)](https://x2.brucelu.top/sdr/checkout/?source=github-badge-sdr-cpr) [![Ask_First](https://img.shields.io/badge/Ask_First-blue)](https://x2.brucelu.top/products/contact/?offer=sdr&source=github-badge-sdr-cpr) [![Sample](https://img.shields.io/badge/Sample-informational)](https://x2.brucelu.top/sdr/sample/)
+
 Remote architecture and bring-up review for Zynq-7000 plus AD936x SDR projects.
 
 This public repo is a lightweight landing and verification surface. The private engineering notes remain private.
