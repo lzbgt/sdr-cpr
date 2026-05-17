@@ -7,7 +7,7 @@ This public repo is a lightweight landing and verification surface. The private 
 ## Live review offer
 
 - Review page: https://x2.brucelu.top/sdr/
-- Checkout: https://x2.brucelu.top/sdr/checkout/
+- Checkout: https://x2.brucelu.top/sdr/checkout/?source=github-sdr-cpr
 - Intake after payment: https://x2.brucelu.top/sdr/access/
 
 ## What the review covers
