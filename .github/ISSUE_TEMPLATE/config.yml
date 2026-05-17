@@ -1,0 +1,11 @@
+blank_issues_enabled: true
+contact_links:
+  - name: Paid support question - SDR-Zynq Integration Review
+    url: https://x2.brucelu.top/products/contact/?offer=sdr&source=github-issue-sdr-cpr
+    about: Ask a pre-sales support question before opening a paid review or setup request.
+  - name: Paid support checkout - SDR-Zynq Integration Review
+    url: https://x2.brucelu.top/sdr/checkout/?source=github-issue-sdr-cpr
+    about: Book the paid review or access package for this repository.
+  - name: Sample deliverable or proof
+    url: https://x2.brucelu.top/sdr/sample/
+    about: Inspect the sample output or proof page before deciding.
